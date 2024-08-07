@@ -37,7 +37,7 @@ h1{
 
 
 button{
-    background-color: var(--cor-secundaria);
+    background-color:#2b3dc2;
     color: var(--cor-texto);
     border: none;
     border-radius: 15px;
